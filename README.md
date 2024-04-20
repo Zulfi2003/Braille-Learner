@@ -52,6 +52,8 @@ Below are images of all Braille letters for reference:
 ## Contributors
 
 - [Zulfikar Charoliya](https://github.com/Zulfi2003)
+- [Pranav Bachhav](https://github.com/bpranav83)
+- [Aditi Bhat](https://github.com/Aditi0815B))
 
 ## Conclusion
 The "Braille Learner" project represents a significant advancement in Braille education and assistive technology, providing a holistic and accessible learning experience for individuals with visual impairments. By combining tactile and auditory feedback, the project aims to empower Braille learners and promote educational inclusivity. With ongoing development and contributions, we are committed to improving the learning journey for individuals with visual impairments and advancing the cause of Braille literacy.
