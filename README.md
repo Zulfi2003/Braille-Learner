@@ -49,11 +49,9 @@ Below are images of all Braille letters for reference:
 ## Flow Diagram
 ![image](https://github.com/bpranav83/Braille-Learner/assets/140311471/f72a969e-73f0-4fc0-8f6c-fe5978c2c893)
 
-## Contributing
-Contributions to the "Braille Learner" project are welcome! If you'd like to contribute, please follow these guidelines:
-- Fork the repository and create a new branch for your contributions.
-- Make your changes or additions, ensuring they align with the project's goals and standards.
-- Submit a pull request detailing your changes for review and feedback.
+## Contributors
+
+- [Zulfikar Charoliya](https://github.com/Zulfi2003)
 
 ## Conclusion
 The "Braille Learner" project represents a significant advancement in Braille education and assistive technology, providing a holistic and accessible learning experience for individuals with visual impairments. By combining tactile and auditory feedback, the project aims to empower Braille learners and promote educational inclusivity. With ongoing development and contributions, we are committed to improving the learning journey for individuals with visual impairments and advancing the cause of Braille literacy.
