@@ -3,7 +3,7 @@
 ## Introduction
 The "Braille Learner" project is an innovative educational solution designed to empower individuals learning Braille by offering a multi-sensory learning experience. It combines tactile and auditory feedback to enhance the comprehension and retention of Braille characters, ultimately facilitating the journey to Braille literacy.
 
-## Features
+## Features   
 - Interactive web interface for selecting Braille letters
 - Tactile feedback through a Braille grid with servo motors
 - Auditory feedback using Text-to-Speech (TTS) technology
